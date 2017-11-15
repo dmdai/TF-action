@@ -1,5 +1,5 @@
 
-该文件夹是自己在Tensorflow上复现的一些经典网络的代码（TF-Version:1.3/CUDA:8.0/CUDNN:6.1）
+该文件夹是在Tensorflow上复现的一些经典网络的代码（TF-Version:1.3/CUDA:8.0/CUDNN:6.1）
 
 convolutional_network.py主要实现LeNet网络的程序
 denoised_autoencoder.py主要实现降噪自动编码器的程序
